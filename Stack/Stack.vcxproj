@@ -10,6 +10,14 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SimpleStack.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="StackClass.h" />
+    <ClInclude Include="StackExceptions.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{B4E32A28-91E9-4F72-9415-33ED0A05DD5D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
